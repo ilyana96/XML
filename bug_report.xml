@@ -1,1 +1,16 @@
+<<<<bug_report>
+  <Defect ID >D_AppXYZ_Module1_001</Defect ID >
+  <Defect Title> Manager Dashboard is not allowing adding newly reports types- history, work completion trends</Defect Title>
+  <Steps to reproduce>1. Login in as a manager (include manager credentials only if not confidential). 2. Click on the dashboard. 3. Click on + icon to add a new report 4. Select History/Work completion report trends report type 4.Click “Add to dashboard button”</Steps to reproduce>
+  <Expected Result>The new report should add and the manager should be able to view it on the dashboard</Expected Result>
+  <Actual Result>An error with the message “No report exists with that name” error message shows</Actual Result>
+  <Attachment>"Add image or a word doc with multiple images showing sequence of steps or a quick/short video"</Attachment>
+  <Severity>High</Severity>
+  <Priority>Medium</Priority>
+  <Environment>FireFox version 32.4</Environment>
+  <Reported by>Tester XYZ</Reported by>
+  <Reported on>7-12-2023</Reported on>
+  <Status>New</Status>
+  <Assigned To>Developer ABC </Assigned To>
+</bug_report>
 
